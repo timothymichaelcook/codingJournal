@@ -1,6 +1,6 @@
 Working on HTML in Codecademy
 
-
+STRUCTURE IN HTML
 Learned about relative vs absolute paths:
 relative = ./aboutme.html 
 absolute = www.google.com
@@ -20,3 +20,18 @@ do:
 <body>
   <p>Text</p>
 <body>
+
+
+TABLES IN HTML
+
+tables are started with tr tag
+td tag specifies how many columns are in the row
+
+<tr>
+  <th></th>
+  <th></th>
+</tr>
+<tr>
+  <td></td>
+  <td></td>
+</tr>
