@@ -1,0 +1,11 @@
+Working on HTML in Codecademy
+
+
+Learned about relative vs absolute paths:
+relative = ./aboutme.html 
+absolute = www.google.com
+
+
+attributes are inside tags, for the anchor tag, it could have the href and target attributes.
+
+<a href="./test.html" target="_blank"></a>
