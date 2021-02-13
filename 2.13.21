@@ -9,3 +9,14 @@ absolute = www.google.com
 attributes are inside tags, for the anchor tag, it could have the href and target attributes.
 
 <a href="./test.html" target="_blank"></a>
+
+
+For readability, use Whitespace and nesting.
+
+instead of:
+<body><p>Text</p></body>
+
+do:
+<body>
+  <p>Text</p>
+<body>
