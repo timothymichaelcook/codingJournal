@@ -40,6 +40,8 @@ td tag specifies how many columns are in the row
 tbody is used with larger tables
 
 <table>
+  <thead>
+  </thead>
   <tbody>
   </tbody>
 <table>
