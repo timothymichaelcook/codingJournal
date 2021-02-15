@@ -1,0 +1,29 @@
+Starting Codecademy's Javascript course
+
+
+PRINTING LIKE IN PYTHON
+
+console.log();
+
+console = object
+.log = method
+
+
+COMMENTS
+
+single //
+multi-line /* */
+
+DATA TYPES
+
+similar to python,
+6 primitive data types and 1 objects that aren't
+
+OPERATORS
+
++, -, *, /
+
+dot operator
+console.log('Hello'.lenght); prints 5 to the console
+
+Remember that methods are actions we can perform. JavaScript provides a number of string methods.
